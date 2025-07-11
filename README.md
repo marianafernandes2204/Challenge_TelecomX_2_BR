@@ -64,4 +64,4 @@ Projeto desenvolvido por Mariana Fernandes como parte de um desafio de análise 
 
 ## 📝 Licença
 
-Projeto para fins educacionais. Distribuído sob a [MIT License](LICENSE).
+Projeto para fins educacionais. 
