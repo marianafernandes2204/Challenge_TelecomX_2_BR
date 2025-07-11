@@ -1,8 +1,11 @@
-# 📊 Challenge TelecomX_2 | Análise Preditiva de Evasão de Clientes
+# 📊 Challenge TelecomX_2  
+##  Análise Preditiva de Evasão de Clientes
+
+<br/>
 
 Este repositório contém a solução para o desafio da **Telecom X**, focado na análise preditiva de evasão de clientes, utilizando técnicas de Machine Learning para identificar fatores que levam ao cancelamento dos serviços.
 
----
+<br/>
 
 ## 🎯 Objetivo
 
@@ -13,7 +16,7 @@ A Telecom X enfrenta um alto índice de cancelamentos e busca:
 - **Desenvolver modelos preditivos** para identificar clientes com maior risco de evasão.
 - Oferecer **insights estratégicos** para reduzir a evasão e melhorar a retenção.
 
----
+<br/>
 
 ## 🧹 Limpeza e Tratamento de Dados
 
@@ -24,7 +27,7 @@ Principais etapas realizadas:
 - ✅ Análise de correlação para seleção e exclusão de variáveis redundantes.
 - ✅ Preparação dos dados para modelagem preditiva.
 
----
+<br/>
 
 ## 🔍 Análise Exploratória e Modelagem Preditiva
 
@@ -36,7 +39,7 @@ Principais etapas realizadas:
   - **Valor Mensal** (valores mais altos correlacionam com evasão)
   - Serviços adicionais como segurança online e backup também influenciam.
 
----
+<br/>
 
 ## ✅ Recomendações Estratégicas
 
@@ -44,7 +47,7 @@ Principais etapas realizadas:
 - Oferecer **pacotes promocionais e descontos progressivos** para aumentar a fidelização.
 - Utilizar o modelo de **Regressão Logística para monitoramento contínuo**, possibilitando intervenções proativas em clientes com maior risco de evasão.
 
----
+<br/>
 
 ## 🔧 Tecnologias e Ferramentas
 
@@ -54,13 +57,13 @@ Principais etapas realizadas:
 - Matplotlib, Seaborn
 - Google Colab / VSCode
 
----
+<br/>
 
 ## ✍️ Autor
 
 Projeto desenvolvido por Mariana Fernandes como parte de um desafio de análise de dados no setor de telecomunicações.
 
----
+<br/>
 
 ## 📝 Licença
 
