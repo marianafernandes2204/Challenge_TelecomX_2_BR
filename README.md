@@ -1,5 +1,6 @@
-# 📊 Challenge TelecomX_2  
-##  Análise Preditiva de Evasão de Clientes
+<h1 align="center">📊 Challenge TelecomX_2</h1>
+<h2 align="center">Análise Preditiva de Evasão de Clientes</h2>
+
 
 <br/>
 
